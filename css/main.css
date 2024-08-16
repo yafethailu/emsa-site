@@ -590,7 +590,7 @@ button1:active:before {
     transform: translateX(100%);
     box-shadow: inset 15px -4px 0px 15px #fff000;
   }
-  .footer-dark {
+.footer-dark {
     background-color: #000;
     color: #fff;
     padding: 20px 0;
@@ -629,7 +629,7 @@ button1:active:before {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #333;
+    background-color: #4c92ee;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -647,7 +647,7 @@ button1:active:before {
 }
 
 .dropdown-content a:hover {
-    background-color: #575757;
+    background-color: #fffb00;
 }
 
 .social-links {
